@@ -75,8 +75,6 @@ B.E. degree from [Intelligence Science and Technology](https://ai.ustb.edu.cn/),
 </div>
 
 
-
-
 # 💻 Internships
 - *2021.08 - 2022.06*, SmartMore, Shenzhen. Working with Xufeng Yao and [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) on OCR and model compressing.
 - *2021.04 - 2021.07*, Samsung Advanced Institute of Technology & Peking University ZERO Lab, Beijing. Working with Bin Dai on group-equivalent network for object detection
