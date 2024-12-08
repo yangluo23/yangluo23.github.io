@@ -65,12 +65,14 @@ YongZhen G, **Luo Y**, WangWei P et al.
 
 M.S. degree from [School of Computer Science and Technology](https://scce.ucas.ac.cn/), University of Chinese Academy of Sciences, Beijing, China
 2019.09 - 2023.01
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='../images/education/ucas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 B.E. degree from [Intelligence Science and Technology](https://ai.ustb.edu.cn/), the University of Science and Technology Beijing, China
-
+2015.09 - 2019.06
+</div>
 
 # 💻 Internships
 - *2021.08 - 2022.06*, SmartMore, Shenzhen. Working with Xufeng Yao and [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) on OCR and model compressing.
