@@ -22,7 +22,7 @@ Yang LUO is currently a second-year Ph.D. student in Microelectronics at the Hon
 
 He received his B.E. degree in Intelligence Science and Technology from the University of Science and Technology Beijing, China. He also holds an M.S. degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China.
 
-[red](如果您对我的研究感兴趣，欢迎联系我！十分期待与您的讨论和合作！)
+<span style="color:red">If you're interested in my research, feel free to reach out! I look forward to discussing and collaborating with you!</span>
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to [**ICCAD 2024**](https://2024.iccad.com/)! Many thanks to my advisor and colleagues for their support!
@@ -37,7 +37,7 @@ ICCAD, 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images_ori/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/papers/syn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption. 
