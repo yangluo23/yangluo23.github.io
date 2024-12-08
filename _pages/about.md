@@ -29,23 +29,54 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/papers/PVILT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
-ICCAD, 2024
-
-**Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
+    <img src='../images/papers/PVILT.png' alt="sym" width="150">
+  </div>
+  <div class='paper-box-text'>
+    <p><strong>Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization</strong><br>
+    ICCAD, 2024<br><strong>Yang LUO</strong>, Xiaoxiao LIANG, Yuzhe MA</p>
+  </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><img src='../images/papers/syn.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption. 
-IJCAS, 2020
-
-YongZhen G, **Luo Y**, WangWei P et al.
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
+    <img src='../images/papers/syn.png' alt="sym" width="150">
+  </div>
+  <div class='paper-box-text'>
+    <p><strong>Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</strong><br>
+    IJCAS, 2020<br>YongZhen G, <strong>Luo Y</strong>, WangWei P et al.</p>
+  </div>
 </div>
+
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/papers/PVILT.png' alt="sym" width="100%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # (Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization)
+
+[//]: # (ICCAD, 2024)
+
+[//]: # ()
+[//]: # (**Yang LUO**, Xiaoxiao LIANG, Yuzhe MA)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><img src='../images/papers/syn.png' alt="sym" width="100%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # (Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption. )
+
+[//]: # (IJCAS, 2020)
+
+[//]: # ()
+[//]: # (YongZhen G, **Luo Y**, WangWei P et al.)
+
+[//]: # (</div>)
 
 [**Project**]
 
@@ -59,21 +90,24 @@ YongZhen G, **Luo Y**, WangWei P et al.
 - *2016~2018* People's Scholarship, Outstanding student
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><img src='../images/education/ucas.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-M.S. degree from [School of Computer Science and Technology](https://scce.ucas.ac.cn/), University of Chinese Academy of Sciences, Beijing, China
-
-2019.09 - 2023.01
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
+    <img src='../images/education/ucas.jpg' alt="sym" width="150">
+  </div>
+  <div class='paper-box-text'>
+    <p><strong>M.S. degree from <a href="https://scce.ucas.ac.cn/">School of Computer Science and Technology</a>, University of Chinese Academy of Sciences, Beijing, China</strong><br>2019.09 - 2023.01</p>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/education/ucas.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-B.E. degree from [Intelligence Science and Technology](https://ai.ustb.edu.cn/), the University of Science and Technology Beijing, China
-
-2015.09 - 2019.06
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
+    <img src='../images/education/ustb.png' alt="sym" width="150">
+  </div>
+  <div class='paper-box-text'>
+    <p><strong>B.E. degree from <a href="https://ai.ustb.edu.cn/">Intelligence Science and Technology</a>, the University of Science and Technology Beijing, China</strong><br>2015.09 - 2019.06</p>
+  </div>
 </div>
+
 
 # 💻 Internships
 - *2021.08 - 2022.06*, SmartMore, Shenzhen. Working with Xufeng Yao and [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) on OCR and model compressing.
