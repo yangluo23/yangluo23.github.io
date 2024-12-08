@@ -29,33 +29,57 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="150"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">
-    <img src='../images/papers/PVILT.png' alt="sym" width="150">
-  </div>
-  <div class='paper-box-text'>
-    <p><strong>Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization</strong><br>
-    ICCAD, 2024<br><strong>Yang LUO</strong>, Xiaoxiao LIANG, Yuzhe MA</p>
-  </div>
-</div>
+Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption
 
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">
-    <img src='../images/papers/syn.png' alt="sym" width="150">
-  </div>
-  <div class='paper-box-text'>
-    <p><strong>Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</strong><br>
-    IJCAS, 2020<br>YongZhen G, <strong>Luo Y</strong>, WangWei P et. al.</p>
-  </div>
-</div>
+YongZhen G, **Luo Y**, WangWei P et. al.
+
+
+[//]: # (<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">)
+
+[//]: # (  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">)
+
+[//]: # (    <img src='../images/papers/PVILT.png' alt="sym" width="150">)
+
+[//]: # (  </div>)
+
+[//]: # (  <div class='paper-box-text'>)
+
+[//]: # (    <p><strong>Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization</strong><br>)
+
+[//]: # (    ICCAD, 2024<br><strong>Yang LUO</strong>, Xiaoxiao LIANG, Yuzhe MA</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">)
+
+[//]: # (  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">)
+
+[//]: # (    <img src='../images/papers/syn.png' alt="sym" width="150">)
+
+[//]: # (  </div>)
+
+[//]: # (  <div class='paper-box-text'>)
+
+[//]: # (    <p><strong>Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</strong><br>)
+
+[//]: # (    IJCAS, 2020<br>YongZhen G, <strong>Luo Y</strong>, WangWei P et. al.</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
 
 [**Project**]
 
