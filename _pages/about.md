@@ -35,6 +35,8 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="150"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,7 +44,8 @@ Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption
 
 YongZhen G, **Luo Y**, WangWei P et. al.
-
+</div>
+</div>
 
 [//]: # (<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">)
 
