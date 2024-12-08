@@ -49,35 +49,6 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
   </div>
 </div>
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/papers/PVILT.png' alt="sym" width="100%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # (Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization)
-
-[//]: # (ICCAD, 2024)
-
-[//]: # ()
-[//]: # (**Yang LUO**, Xiaoxiao LIANG, Yuzhe MA)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><img src='../images/papers/syn.png' alt="sym" width="100%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # (Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption. )
-
-[//]: # (IJCAS, 2020)
-
-[//]: # ()
-[//]: # (YongZhen G, **Luo Y**, WangWei P et al.)
-
-[//]: # (</div>)
-
 [**Project**]
 
 
