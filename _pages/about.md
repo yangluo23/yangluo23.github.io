@@ -18,22 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Yang Luo is currently a second-year Ph.D. student in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where he is supervised by [Prof. Yuzhe Ma](https://yuzhema.people.ust.hk/) and [Prof. Yeyu Tong](https://personal.hkust-gz.edu.cn/yeyutong/). His research focuses on Machine Learning and Electronic Design Automation (EDA), with particular interests in AI4EDA (leveraging AI algorithms to automate chip design processes), optimization under engineering constraints, generative models (exploring their applications in traditional EDA workflows), and Large Language Models (developing EDA software oriented towards LLMs).
+Yang LUO is currently a second-year Ph.D. student in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where he is supervised by [Prof. Yuzhe Ma](https://yuzhema.people.ust.hk/) and [Prof. Yeyu Tong](https://personal.hkust-gz.edu.cn/yeyutong/). His research focuses on Machine Learning and Electronic Design Automation (EDA), with particular interests in AI4EDA (leveraging AI algorithms to automate chip design processes), optimization under engineering constraints, generative models (exploring their applications in traditional EDA workflows), and Large Language Models (developing EDA software oriented towards LLMs).
 
 He received his B.E. degree in Intelligence Science and Technology from the University of Science and Technology Beijing, China. He also holds an M.S. degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China.
 
+[red](如果您对我的研究感兴趣，欢迎联系我！十分期待与您的讨论和合作！)
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to **ICCAD 2024**! Many thanks to my advisor and colleagues for their support!
+- *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to [**ICCAD 2024**](https://2024.iccad.com/)! Many thanks to my advisor and colleagues for their support!
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/PVILT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
+**Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
