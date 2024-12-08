@@ -38,7 +38,7 @@ ICCAD, 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/papers/syn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../images/papers/syn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption. 
