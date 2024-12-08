@@ -47,6 +47,11 @@ YongZhen G, **Luo Y**, WangWei P et. al.
 </div>
 </div>
 
+# 🛠 Work-in-progress
+
+- *Mask Optimization*: &nbsp;🔨 Developing a mask optimization algorithm for lithography to improve the robustness of inverse lithography.
+- *Hardware Language Generation*: &nbsp;🔨 Investigating the potential of large language models for generating hardware description languages.
+- *LLM-oriented EDA Tools*: &nbsp;🔨 Designing a new generation of EDA tools that leverage the capabilities of large language models.
 
 # 🎖 Honors and Awards
 - *2020* Tianchi competition of MEDIA-AI Alibaba Algorithm Challenge - HD Video Segmentation (6/733)
