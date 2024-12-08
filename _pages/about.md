@@ -32,14 +32,18 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/papers/PVILT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
+ICCAD, 2024
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images_ori/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption. 
+IJCAS, 2020
+YongZhen G, **Luo Y**, WangWei P et al.
+</div>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
