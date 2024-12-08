@@ -84,9 +84,6 @@ YongZhen G, **Luo Y**, WangWei P et. al.
 
 [//]: # (</div>)
 
-[**Project**]
-
-
 
 # 🎖 Honors and Awards
 - *2020* Tianchi competition of MEDIA-AI Alibaba Algorithm Challenge - HD Video Segmentation (6/733)
@@ -96,23 +93,57 @@ YongZhen G, **Luo Y**, WangWei P et. al.
 - *2016~2018* People's Scholarship, Outstanding student
 
 # 📖 Educations
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">
-    <img src='../images/education/ucas.jpg' alt="sym" width="150" >
-  </div>
-  <div class='paper-box-text'>
-    <p><strong>M.S. degree from <a href="https://scce.ucas.ac.cn/">School of Computer Science and Technology</a>, University of Chinese Academy of Sciences, Beijing, China</strong><br>2019.09 - 2023.01</p>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/education/ucas.jpg' alt="sym" width="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+M.S. degree from [School of Computer Science and Technology](https://scce.ucas.ac.cn/), University of Chinese Academy of Sciences, Beijing, China
+
+2019.09 - 2023.01
+</div>
 </div>
 
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">
-    <img src='../images/education/ustb.png' alt="sym" width="150">
-  </div>
-  <div class='paper-box-text' style="flex-grow: 1;">
-    <p><strong>B.E. degree from <a href="https://ai.ustb.edu.cn/">Intelligence Science and Technology</a>, the University of Science and Technology Beijing, China</strong><br>2015.09 - 2019.06</p>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/education/ustb.png' alt="sym" width="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+B.E. degree from [Intelligence Science and Technology](https://ai.ustb.edu.cn/), the University of Science and Technology Beijing, China
+
+2015.09 - 2019.06
 </div>
+</div>
+
+
+[//]: # (<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">)
+
+[//]: # (  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">)
+
+[//]: # (    <img src='../images/education/ucas.jpg' alt="sym" width="150" >)
+
+[//]: # (  </div>)
+
+[//]: # (  <div class='paper-box-text'>)
+
+[//]: # (    <p><strong>M.S. degree from <a href="https://scce.ucas.ac.cn/">School of Computer Science and Technology</a>, University of Chinese Academy of Sciences, Beijing, China</strong><br>2019.09 - 2023.01</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">)
+
+[//]: # (  <div class='paper-box-image' style="flex-shrink: 0; margin-right: 20px;">)
+
+[//]: # (    <img src='../images/education/ustb.png' alt="sym" width="150">)
+
+[//]: # (  </div>)
+
+[//]: # (  <div class='paper-box-text' style="flex-grow: 1;">)
+
+[//]: # (    <p><strong>B.E. degree from <a href="https://ai.ustb.edu.cn/">Intelligence Science and Technology</a>, the University of Science and Technology Beijing, China</strong><br>2015.09 - 2019.06</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
 
 
 
