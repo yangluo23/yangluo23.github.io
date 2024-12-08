@@ -31,7 +31,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 <div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
-    <img src='../images/papers/PVILT.png?v=timestamp' alt="sym" width="150" onerror="this.style.display='none';">
+    <img src='../images/papers/PVILT.png' alt="sym" width="150">
   </div>
   <div class='paper-box-text'>
     <p><strong>Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization</strong><br>
@@ -41,7 +41,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 <div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
-    <img src='../images/papers/syn.png?v=timestamp' alt="sym" width="150" onerror="this.style.display='none';">
+    <img src='../images/papers/syn.png' alt="sym" width="150">
   </div>
   <div class='paper-box-text'>
     <p><strong>Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</strong><br>
@@ -63,7 +63,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 # 📖 Educations
 <div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
-    <img src='../images/education/ucas.jpg?v=timestamp' alt="sym" width="150" onerror="this.style.display='none';">
+    <img src='../images/education/ucas.jpg' alt="sym" width="150" >
   </div>
   <div class='paper-box-text'>
     <p><strong>M.S. degree from <a href="https://scce.ucas.ac.cn/">School of Computer Science and Technology</a>, University of Chinese Academy of Sciences, Beijing, China</strong><br>2019.09 - 2023.01</p>
@@ -72,9 +72,9 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 <div class='paper-box' style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class='paper-box-image' style="flex-shrink: 0; margin-right: 60px;">
-    <img src='../images/education/ustb.png?v=timestamp' alt="sym" width="150" onerror="this.style.display='none';">
+    <img src='../images/education/ustb.png' alt="sym" width="150">
   </div>
-  <div class='paper-box-text'>
+  <div class='paper-box-text' style="flex-grow: 1;">
     <p><strong>B.E. degree from <a href="https://ai.ustb.edu.cn/">Intelligence Science and Technology</a>, the University of Science and Technology Beijing, China</strong><br>2015.09 - 2019.06</p>
   </div>
 </div>
