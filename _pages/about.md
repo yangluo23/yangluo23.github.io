@@ -29,7 +29,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="275"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
@@ -38,7 +38,7 @@ Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="275"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption
@@ -49,7 +49,7 @@ YongZhen G, **Luo Y**, WangWei P et. al.
 
 # 🛠 Work-in-progress
 
-- *Mask Optimization*: &nbsp;🔨 Developing a mask optimization algorithm for lithography to improve the robustness of inverse lithography.
+- *Inverse Lithography Technology*: &nbsp;🔨 Developing a mask optimization algorithm for lithography to improve the robustness of inverse lithography.
 - *Hardware Language Generation*: &nbsp;🔨 Investigating the potential of large language models for generating hardware description languages.
 - *LLM-oriented EDA Tools*: &nbsp;🔨 Designing a new generation of EDA tools that leverage the capabilities of large language models.
 
