@@ -79,6 +79,25 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
   </div>
 </div>
 
+<div class="paper-box" style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div class="paper-box-image">
+    <img src="../images/education/ustb.png" alt="sym" width="150" style="display: block;">
+  </div>
+  <div class="paper-box-content">
+    <div class="paper-box-text">
+      <p>
+        <strong>
+          B.E. degree from 
+          <a href="https://ai.ustb.edu.cn/">Intelligence Science and Technology</a>, 
+          the University of Science and Technology Beijing, China
+        </strong>
+        <br>2015.09 - 2019.06
+      </p>
+    </div>
+  </div>
+</div>
+
+
 
 # 💻 Internships
 - *2021.08 - 2022.06*, SmartMore, Shenzhen. Working with Xufeng Yao and [Prof.Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) on OCR and model compressing.
