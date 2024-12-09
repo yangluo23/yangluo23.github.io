@@ -34,7 +34,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 10px;"> Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization </span>
+<span style="font-size: 17px;"> Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization </span>
 
 <i>In IEEE/ACM  International Conference on Computer-Aided Design (ICCAD ’24)<i>
 
@@ -47,7 +47,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 10px;"> Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</span>
+<span style="font-size: 17px;"> Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</span>
 
 <i>International Journal of Control, Automation and Systems (IJCAS ’20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
