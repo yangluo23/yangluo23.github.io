@@ -49,7 +49,9 @@ Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 
 Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption
 
-<i>International Journal of Control, Automation and Systems (IJCAS 20)</i> <strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
+<i>International Journal of Control, Automation and Systems (IJCAS 20)</i> 
+
+<strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 YongZhen G, **Luo Y**, WangWei P et. al.
 
