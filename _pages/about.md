@@ -71,7 +71,7 @@ YongZhen G, **Luo Y**, WangWei P et. al.
 - *2016~2018* People's Scholarship, Outstanding student
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/education/ucas.jpg' alt="sym" width="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/education/ucas.jpg' alt="sym" width="170"></div></div>
 <div class='paper-box-text' markdown="1">
 
 M.S. degree from [School of Computer Science and Technology](https://scce.ucas.ac.cn/), University of Chinese Academy of Sciences, Beijing, China
@@ -80,7 +80,7 @@ M.S. degree from [School of Computer Science and Technology](https://scce.ucas.a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/education/ustb.png' alt="sym" width="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/education/ustb.png' alt="sym" width="170"></div></div>
 <div class='paper-box-text' markdown="1">
 
 B.E. degree from [Intelligence Science and Technology](https://ai.ustb.edu.cn/), the University of Science and Technology Beijing, China
