@@ -40,7 +40,7 @@ Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
 
-- Contribution: Theoretical analysis and algorithm design, experiment implementation, and paper writing
+- **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
 </div>
 
@@ -51,9 +51,9 @@ Fixed-time synchronization of complex-valued memristive BAM neural network and a
 
 <i>International Journal of Control, Automation and Systems (IJCAS 20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-YongZhen GE, **Yang LUO**, WangWei PING, et. al.
+YongZhen GUO, **Yang LUO**, WangWei PING, et. al.
 
-- Contribution: Theoretical analysis and algorithm design, experiment implementation, and paper writing
+- **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
 </div>
 
