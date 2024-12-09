@@ -51,7 +51,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 <i>International Journal of Control, Automation and Systems (IJCAS ’20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-YongZhen GUO, **Yang LUO**, WangWei PING, et. al.
+YongZhen GUO, **Yang LUO**, WangWei PING, et al.
 
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
