@@ -51,6 +51,8 @@ Fixed-time synchronization of complex-valued memristive BAM neural network and a
 
 <i>International Journal of Control, Automation and Systems (IJCAS 20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 YongZhen GUO, **Yang LUO**, WangWei PING, et. al.
 
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
