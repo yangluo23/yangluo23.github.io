@@ -28,7 +28,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to [**ICCAD 2024**](https://2024.iccad.com/)! Many thanks to my advisor and colleagues for their support!
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
-<center><span style="color:gray;">*“What I cannot create, I do not understand.”*</span></center>
+<center><span style="color:gray;"><i>“What I cannot create, I do not understand.”</i> — Richard Feynman</span></center>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="275"></div></div>
