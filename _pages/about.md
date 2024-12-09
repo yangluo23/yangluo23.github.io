@@ -49,7 +49,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 <span style="font-size: 10px;"> Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</span>
 
-<i>International Journal of Control, Automation and Systems (IJCAS 20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
+<i>International Journal of Control, Automation and Systems (IJCAS ’20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 YongZhen GUO, **Yang LUO**, WangWei PING, et. al.
 
