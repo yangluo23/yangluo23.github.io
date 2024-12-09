@@ -47,7 +47,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 17px;"> Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption</span>
+<span style="font-size: 17px;"> [Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption](https://link.springer.com/article/10.1007/s12555-018-0676-7) </span>
 
 <i>International Journal of Control, Automation and Systems (IJCAS ’20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
