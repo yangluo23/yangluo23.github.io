@@ -31,7 +31,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <center><span style="color:gray; font-size: 22px;"><i>“What I cannot create, I do not understand.”</i> — Richard Feynman</span></center>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="275"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
@@ -44,7 +44,7 @@ Enabling Robust Inverse Lithography with Rigorous Multi-Objective Optimization
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="275"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAS 2020</div><img src='../images/papers/syn.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fixed-time synchronization of complex-valued memristive BAM neural network and applications in image encryption and decryption
