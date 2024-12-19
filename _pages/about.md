@@ -40,7 +40,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
 
-[Slides](../docs/ICCAD24-slides.pdf)
+[Slides](../slides/ICCAD24-slides.pdf)
 
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
