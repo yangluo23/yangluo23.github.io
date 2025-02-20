@@ -25,10 +25,26 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <span style="color:red">If you're interested in my research, feel free to reach out! I look forward to discussing and collaborating with you!</span>
 
 # 🔥 News
+- *2025.02*：&nbsp;🎉🎉 One paper accepted to **DATE 2025**! Many thanks to my collaborators!
 - *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to [**ICCAD 2024**](https://2024.iccad.com/)! Many thanks to my advisor and colleagues for their support!
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 <center><span style="color:gray; font-size: 22px;"><i>“What I cannot create, I do not understand.”</i> — Richard Feynman</span></center>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2025</div><img src='../images/papers/PICBench.png' alt="sym" width="250"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 17px;"> PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design </span>
+
+<i>In IEEE/ACM Design, Automation, and Test in Europe (DATE ’25)<i>
+
+Yuchao Wu, Xiaofei Yu, Hao Chen, *Yang Luo*, Yeyu Tong, Yuzhe Ma
+
+[Paper](https://arxiv.org/pdf/2502.03159)
+
+- **Contribution**: Paper writing
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/papers/PVILT.png' alt="sym" width="250"></div></div>
@@ -40,7 +56,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
 
-[Slides](../slides/ICCAD24-slides.pdf)
+[Paper](https://personal.hkust-gz.edu.cn/yuzhema/papers/C38-ICCAD2024-PV-ILT.pdf), [Slides](../slides/ICCAD24-slides.pdf)
 
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
