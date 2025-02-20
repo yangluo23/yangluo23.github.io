@@ -38,7 +38,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 
 <i>In IEEE/ACM Design, Automation, and Test in Europe (DATE ’25)<i>
 
-Yuchao Wu, Xiaofei Yu, Hao Chen, *Yang Luo*, Yeyu Tong, Yuzhe Ma
+Yuchao Wu, Xiaofei Yu, Hao Chen, **Yang Luo**, Yeyu Tong, Yuzhe Ma
 
 [Paper](https://arxiv.org/pdf/2502.03159)
 
