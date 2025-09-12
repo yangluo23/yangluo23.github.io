@@ -102,7 +102,7 @@ Yuchao Wu, Xiaofei Yu, Hao Chen, **Yang Luo**, Yeyu Tong, Yuzhe Ma
 
 <i>In IEEE/ACM  International Conference on Computer-Aided Design (ICCAD ’24)<i>
 
-**Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
+**Yang Luo**, Xiaoxiao Liang, Yuzhe Ma
 
 [Paper](../manus/C38-ICCAD2024-PV-ILT.pdf), [Slides](../slides/ICCAD24-slides.pdf)
 
@@ -117,7 +117,7 @@ Yuchao Wu, Xiaofei Yu, Hao Chen, **Yang Luo**, Yeyu Tong, Yuzhe Ma
 
 <i>International Journal of Control, Automation and Systems (IJCAS ’20)<i><strong><span class='show_paper_citations' data='ICLGgGQAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-YongZhen GUO, **Yang LUO**, WangWei PING, et al.
+YongZhen Guo, **Yang Luo**, WangWei Ping, et al.
 
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
