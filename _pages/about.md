@@ -28,7 +28,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - *2025.08*: &nbsp;🎉🎉 One paper accepted to **ASP-DAC 2026**! Many thanks to my collaborators!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to **ADVANCED MATERIALS (AM)**! Many thanks to my collaborators!
 - *2025.04*: &nbsp;🎉🎉 One paper accepted to **ISEDA 2025**! Many thanks to my collaborators!
-- *2025.02*：&nbsp;🎉🎉 One paper accepted to **DATE 2025**! Many thanks to my collaborators!
+- *2025.02*: &nbsp;🎉🎉 One paper accepted to **DATE 2025**! Many thanks to my collaborators!
 - *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to [**ICCAD 2024**](https://2024.iccad.com/)! Many thanks to my advisor and colleagues for their support!
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
