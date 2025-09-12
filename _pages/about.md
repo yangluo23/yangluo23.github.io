@@ -54,7 +54,7 @@ Yutao Li, Kui Xu, Yuzhe Ma, Junze Li, **Yang Luo**, Xinru Li, Penghui Shen, Luyu
 
 <span style="font-size: 17px;"> BEAM: Bidirectional MEEF-Driven Mask Optimization for Curvilinear Photonic Design </span>
 
-<i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)<i>
+<i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC ’26)<i>
 
 Xiaoxiao Liang, **Yang Luo**, Bei Yu, Yuzhe Ma
 
