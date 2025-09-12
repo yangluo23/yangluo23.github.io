@@ -25,11 +25,59 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 <span style="color:red">If you're interested in my research, feel free to reach out! I look forward to discussing and collaborating with you!</span>
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper accepted to **ASP-DAC 2026**! Many thanks to my collaborators!
+- *2025.07*: &nbsp;🎉🎉 One paper accepted to **ADVANCED MATERIALS (AM)**! Many thanks to my collaborators!
+- *2025.04*: &nbsp;🎉🎉 One paper accepted to **ISEDA 2025**! Many thanks to my collaborators!
 - *2025.02*：&nbsp;🎉🎉 One paper accepted to **DATE 2025**! Many thanks to my collaborators!
 - *2024.06*: &nbsp;🎉🎉 Excited to announce that my first paper as a Ph.D. student has been accepted to [**ICCAD 2024**](https://2024.iccad.com/)! Many thanks to my advisor and colleagues for their support!
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 <center><span style="color:gray; font-size: 22px;"><i>“What I cannot create, I do not understand.”</i> — Richard Feynman</span></center>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS</div><img src='../images/papers/Synaptic.png' alt="sym" width="250"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 17px;"> A Novel Time-Division Multiplexing Architecture Revealed by Reconfigurable Synapse for Deep Neural Networks </span>
+
+<i>In ADVANCED MATERIALS (AM)<i>
+
+Yutao Li, Kui Xu, Yuzhe Ma, Junze Li, **Yang Luo**, Xinru Li, Penghui Shen, Luyu Zhao, Hang Liu, Li Ren, Dehui Li, Lianmao Peng, Li Ding, Tianling Ren, Yeliang Wang
+
+[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202420218)
+
+- **Contribution**: Algorithm design, experiment implementation and paper writing
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2026</div><img src='../images/papers/CL-OPC.png' alt="sym" width="250"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 17px;"> BEAM: Bidirectional MEEF-Driven Mask Optimization for Curvilinear Photonic Design </span>
+
+<i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)<i>
+
+Xiaoxiao Liang, **Yang Luo**, Bei Yu, Yuzhe Ma
+
+[//]: # ([Paper]&#40;../manus/C53-ISEDA2025-DiffSRAF.pdf&#41;)
+
+- **Contribution**: Experiment implementation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2025</div><img src='../images/papers/DF-SRAF.png' alt="sym" width="250"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 17px;"> Efficient SRAF Generation via Diffusion Models </span>
+
+<i>In International Symposium of Electronics Design Automation (ISEDA ’25)<i>
+
+Minjie Bi, **Yang Luo**, Xiaoxiao Liang, Zhengzhou Gu, Jinbin Deng, Binwu Zhu, Yuzhe Ma
+
+[Paper](../manus/C53-ISEDA2025-DiffSRAF.pdf)
+
+- **Contribution**: Paper writing
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2025</div><img src='../images/papers/PICBench.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +104,7 @@ Yuchao Wu, Xiaofei Yu, Hao Chen, **Yang Luo**, Yeyu Tong, Yuzhe Ma
 
 **Yang LUO**, Xiaoxiao LIANG, Yuzhe MA
 
-[Paper](https://personal.hkust-gz.edu.cn/yuzhema/papers/C38-ICCAD2024-PV-ILT.pdf), [Slides](../slides/ICCAD24-slides.pdf)
+[Paper](../manus/C38-ICCAD2024-PV-ILT.pdf), [Slides](../slides/ICCAD24-slides.pdf)
 
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
