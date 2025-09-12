@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Yang LUO is currently a second-year Ph.D. student in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where he is supervised by [Prof. Yuzhe Ma](https://yuzhema.people.ust.hk/) and [Prof. Yeyu Tong](https://personal.hkust-gz.edu.cn/yeyutong/). His research focuses on Machine Learning and Electronic Design Automation (EDA), with particular interests in AI4EDA (leveraging AI algorithms to automate chip design processes), optimization under engineering constraints, generative models (exploring their applications in traditional EDA workflows), and Large Language Models (developing EDA software oriented towards LLMs).
+Yang LUO is currently a Ph.D. candidate in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where he is supervised by [Prof. Yuzhe Ma](https://yuzhema.people.ust.hk/) and [Prof. Yeyu Tong](https://personal.hkust-gz.edu.cn/yeyutong/). His research focuses on Machine Learning and Electronic Design Automation (EDA), with particular interests in AI4EDA (leveraging AI algorithms to automate chip design processes), optimization under engineering constraints, generative models (exploring their applications in traditional EDA workflows), and Large Language Models (developing EDA software oriented towards LLMs and different applications).
 
 He received his B.E. degree in Intelligence Science and Technology from the University of Science and Technology Beijing, China. He also holds an M.S. degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China.
 
