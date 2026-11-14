@@ -18,14 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Yang LUO is currently a Ph.D. candidate in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where he is supervised by [Prof. Yuzhe Ma](https://yuzhema.people.ust.hk/) and [Prof. Yeyu Tong](https://personal.hkust-gz.edu.cn/yeyutong/). His research focuses on Machine Learning and Electronic Design Automation (EDA), with particular interests in AI4EDA (leveraging AI algorithms to automate chip design processes), optimization under engineering constraints, generative models (exploring their applications in traditional EDA workflows), and Large Language Models (developing EDA software oriented towards LLMs and different applications).
+Yang LUO is a Ph.D. candidate in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/) and [Prof. Yeyu Tong](https://personal.hkust-gz.edu.cn/yeyutong/). His current research focuses on **agentic photonic design**, using AI agents to design and verify photonic devices and integrated circuits through interactions with simulation and design tools. His broader interests include machine learning for electronic design automation and inverse lithography.
 
 He received his B.E. degree in Intelligence Science and Technology from the University of Science and Technology Beijing, China. He also holds an M.S. degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China.
 
 <span style="color:red">If you're interested in my research, feel free to reach out! I look forward to discussing and collaborating with you!</span>
 
+<span id='-work-in-progress'></span>
+
+# 🛠 Research
+
+- **Harness** — Build environments where agents can turn design specifications into candidate photonic devices and circuits, run simulations and design-rule checks, and revise their designs using tool feedback.
+- **Benchmark** — Define reproducible photonic design tasks that measure whether agents meet optical performance targets and satisfy design constraints. [PICBench](https://github.com/PICDA/PICBench) is an earlier project that evaluates LLM-generated photonic circuit netlists through simulation.
+- **Dataset** — Curate design specifications, reference netlists and layouts, simulation results, and records of design iterations to support agent training and evaluation.
+
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper accepted to **ASP-DAC 2026**! Many thanks to my collaborators!
+- *2026*: &nbsp;🎉🎉 **BILT**, my first-author paper on inverse lithography with mask rule modeling, was accepted by **IEEE TCAD**.
+- *2026.11*: &nbsp;🎉🎉 **TAP-MAC** appeared in the [**ICCAD 2026** technical program](https://iccad.com/2026/full-program).
+- *2026.09*: &nbsp;🎉🎉 **PrefixAgent** was published online in [**ACM TODAES**](https://doi.org/10.1145/3843236).
+- *2026.09*: &nbsp;🎉🎉 **Retrieve, Schedule, Reflect** appeared in the [**MLCAD 2026** technical program](https://mlcad.org/symposium/2026/program/).
+- *2025.08*: &nbsp;🎉🎉 **BEAM** was accepted to **ASP-DAC 2026**! Many thanks to my collaborators!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to **ADVANCED MATERIALS (AM)**! Many thanks to my collaborators!
 - *2025.04*: &nbsp;🎉🎉 One paper accepted to **ISEDA 2025**! Many thanks to my collaborators!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted to **DATE 2025**! Many thanks to my collaborators!
@@ -33,6 +45,62 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - *2023.09*: &nbsp;🎉🎉 I'm excited to have joined HKUST (GZ)! Looking forward to my research journey ahead and outcomes!
 # 📝 Publications 
 <center><span style="color:gray; font-size: 22px;"><i>“What I cannot create, I do not understand.”</i> — Richard Feynman</span></center>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class='badge'>IEEE TCAD</div><a href='../images/papers/BILT.png'><img src='../images/papers/BILT.png' alt='BILT bi-level optimization framework for correcting mask rule violations and improving mask fidelity' width='250' loading='lazy'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BILT: Bi-level Optimization for Inverse Lithography with Mask Rule Modeling**
+
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), accepted*
+
+**Yang Luo**, Xiaonan Huang, Xiaoxiao Liang, Hao Chen, Haopeng Yan, Haoyu Yang, Yeyu Tong, Yuzhe Ma
+
+[DOI](https://doi.org/10.1109/TCAD.2026.3748335)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class='badge'>ICCAD 2026</div><a href='../images/papers/TAP-MAC.webp'><img src='../images/papers/TAP-MAC.webp' alt='TAP-MAC Figure 6: two-phase optimization pipeline with differentiable search-space reduction and GPU-evaluated tree search' width='190' loading='lazy'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TAP-MAC: Low-Power Optimization of Multipliers and Multiply-Accumulators via Topology-Aware Power Modeling**
+
+*IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2026)*
+
+Dongsheng Zuo, **Yang Luo**, Jiadong Zhu, Yuzhe Ma
+
+[Conference program](https://iccad.com/2026/full-program)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class='badge'>MLCAD 2026</div><a href='../images/papers/LLM-PO.png'><img src='../images/papers/LLM-PO.png' alt='Retrieve, Schedule, Reflect Figure 3: framework for scheduling chip optimizations with retrieval and tool feedback' width='250' loading='lazy'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Retrieve, Schedule, Reflect: LLM Agents for Chip QoR Optimization**
+
+*ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD 2026)*
+
+Yikang Ouyang, **Yang Luo**, Dongsheng Zuo, Yuzhe Ma
+
+[arXiv](https://arxiv.org/abs/2603.13767), [Code](https://github.com/YiKangOY/LLM-PO)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class='badge'>TODAES 2026</div><a href='../images/papers/PrefixAgent.png'><img src='../images/papers/PrefixAgent.png' alt='PrefixAgent Figure 5: backbone synthesis and iterative prefix adder optimization with physical-design feedback' width='250' loading='lazy'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**
+
+*ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026*
+
+Dongsheng Zuo, Jiadong Zhu, **Yang Luo**, Yuzhe Ma
+
+[DOI](https://doi.org/10.1145/3843236), [arXiv](https://arxiv.org/abs/2507.06127)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS</div><img src='../images/papers/Synaptic.png' alt="sym" width="250"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,7 +126,7 @@ Yutao Li, Kui Xu, Yuzhe Ma, Junze Li, **Yang Luo**, Xinru Li, Penghui Shen, Luyu
 
 Xiaoxiao Liang, **Yang Luo**, Bei Yu, Yuzhe Ma
 
-[//]: # ([Paper]&#40;../manus/C53-ISEDA2025-DiffSRAF.pdf&#41;)
+[Paper](https://doi.org/10.1109/ASP-DAC66049.2026.11420526)
 
 - **Contribution**: Experiment implementation
 </div>
@@ -88,7 +156,7 @@ Minjie Bi, **Yang Luo**, Xiaoxiao Liang, Zhengzhou Gu, Jinbin Deng, Binwu Zhu, Y
 
 Yuchao Wu, Xiaofei Yu, Hao Chen, **Yang Luo**, Yeyu Tong, Yuzhe Ma
 
-[Paper](https://arxiv.org/pdf/2502.03159)
+[Paper](https://doi.org/10.23919/DATE64628.2025.10992854), [arXiv](https://arxiv.org/abs/2502.03159), [Code and benchmark](https://github.com/PICDA/PICBench)
 
 - **Contribution**: Paper writing
 </div>
@@ -122,12 +190,6 @@ YongZhen Guo, **Yang Luo**, WangWei Ping, et al.
 - **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
 </div>
-
-# 🛠 Work-in-progress
-
-- *Inverse Lithography Technology*: &nbsp;🔨 Developing a mask optimization algorithm for lithography to improve the robustness of inverse lithography.
-- *Hardware Language Generation*: &nbsp;🔨 Investigating the potential of large language models for generating hardware description languages.
-- *LLM-oriented EDA Tools*: &nbsp;🔨 Designing a new generation of EDA tools that leverage the capabilities of large language models.
 
 # 🎖 Honors and Awards
 - *2020* Tianchi competition of MEDIA-AI Alibaba Algorithm Challenge - HD Video Segmentation (6/733)
