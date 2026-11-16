@@ -11,6 +11,9 @@ description              : "Ph.D. candidate in Microelectronics at HKUST(GZ) wor
 repository               : "yangluo23/yangluo23.github.io"
 google_scholar_stats_use_cdn : true
 
+# Copy the d parameter from the MapMyVisitors embed code for this homepage.
+visitor_map_id           : "87IRmvrpVBTDQPJ4YSa18EHpYhiQLGUXrTGZhnPAgvw"
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
