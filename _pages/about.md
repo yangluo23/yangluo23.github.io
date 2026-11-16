@@ -33,7 +33,7 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 - **Dataset** — Curate design specifications, reference netlists and layouts, simulation results, and records of design iterations to support agent training and evaluation.
 
 # 🔥 News
-- *2026*: &nbsp;🎉🎉 **BILT**, my first-author paper on inverse lithography with mask rule modeling, was accepted by **IEEE TCAD**.
+- *2026*: &nbsp;🎉🎉 **BILT** was accepted by **IEEE TCAD**.
 - *2026.11*: &nbsp;🎉🎉 **TAP-MAC** appeared in the [**ICCAD 2026** technical program](https://iccad.com/2026/full-program).
 - *2026.09*: &nbsp;🎉🎉 **PrefixAgent** was published online in [**ACM TODAES**](https://doi.org/10.1145/3843236).
 - *2026.09*: &nbsp;🎉🎉 **Retrieve, Schedule, Reflect** appeared in the [**MLCAD 2026** technical program](https://mlcad.org/symposium/2026/program/).
@@ -57,6 +57,8 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 **Yang Luo**, Xiaonan Huang, Xiaoxiao Liang, Hao Chen, Haopeng Yan, Haoyu Yang, Yeyu Tong, Yuzhe Ma
 
 [DOI](https://doi.org/10.1109/TCAD.2026.3748335)
+
+- **Contribution**: Theoretical analysis and algorithm design, experiment implementation, and paper writing
 </div>
 </div>
 
@@ -71,6 +73,8 @@ He received his B.E. degree in Intelligence Science and Technology from the Univ
 Dongsheng Zuo, **Yang Luo**, Jiadong Zhu, Yuzhe Ma
 
 [Conference program](https://iccad.com/2026/full-program)
+
+- **Contribution**: Algorithm design discussion
 </div>
 </div>
 
@@ -85,6 +89,8 @@ Dongsheng Zuo, **Yang Luo**, Jiadong Zhu, Yuzhe Ma
 Yikang Ouyang, **Yang Luo**, Dongsheng Zuo, Yuzhe Ma
 
 [arXiv](https://arxiv.org/abs/2603.13767), [Code](https://github.com/YiKangOY/LLM-PO)
+
+- **Contribution**: Algorithm design discussion, paper writing
 </div>
 </div>
 
@@ -99,6 +105,8 @@ Yikang Ouyang, **Yang Luo**, Dongsheng Zuo, Yuzhe Ma
 Dongsheng Zuo, Jiadong Zhu, **Yang Luo**, Yuzhe Ma
 
 [DOI](https://doi.org/10.1145/3843236), [arXiv](https://arxiv.org/abs/2507.06127)
+
+- **Contribution**: Algorithm design discussion
 </div>
 </div>
 
